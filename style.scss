@@ -1,0 +1,26 @@
+@import url("https://cdn.skypack.dev/-/reveal.js@v4.3.1-326jYhbvhV3tINENPGwx/dist=es2019,mode=raw/dist/reveal.css");
+@import url("https://cdn.skypack.dev/-/reveal.js@v4.3.1-326jYhbvhV3tINENPGwx/dist=es2019,mode=raw/dist/theme/night.css");
+@import url("https://cdn.skypack.dev/-/reveal.js@v4.3.1-326jYhbvhV3tINENPGwx/dist=es2019,mode=raw/plugin/highlight/monokai.css");
+
+:root {
+    --r-heading-line-height: 1.5;
+    --r-background-color: rgb(7, 7, 7);
+}
+
+section[data-unsplash] {
+    h2, h3 {
+        text-shadow: 0 0 20px rgba(black, .7);
+    }
+}
+
+svg text {
+    font-family: Montserrat !important;
+}
+
+.slide-background-content {
+    opacity: .5;
+}
+
+.chapters {
+    text-shadow: 0 0 10px rgba(black, .7) !important;
+}
