@@ -1,5 +1,5 @@
 {
-  "name": "streams-of-joy-and-tears",
+  "name": "lightning-talk-gct",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,8 +15,6 @@
     "sass-migrator": "^1.5.1"
   },
   "dependencies": {
-    "@observablehq/runtime": "^5.8.2",
-    "lodash": "^4.17.21",
     "reveal.js": "^4.5.0",
     "vite": "^4.0.4"
   }
