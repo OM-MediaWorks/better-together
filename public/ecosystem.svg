@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2623761"
-     inkscape:cx="843.25108"
-     inkscape:cy="351.32161"
+     inkscape:cx="522.42751"
+     inkscape:cy="415.48632"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g2696" />
   <defs
      id="defs2" />
   <g
@@ -40,399 +40,413 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1860"
-       transform="translate(123.59479,79.912181)">
-      <rect
-         style="fill:#999999;stroke-width:0.529167"
-         id="rect1802"
-         width="7.1562505"
-         height="12.937774"
-         x="110.38914"
-         y="56.774036"
-         rx="2.7292514"
-         ry="2.7292514" />
-      <path
-         sodipodi:type="star"
-         style="fill:#999999;stroke-width:0.529167"
-         id="path1856"
-         inkscape:flatsided="true"
-         sodipodi:sides="3"
-         sodipodi:cx="104.38216"
-         sodipodi:cy="69.679916"
-         sodipodi:r1="7.9004884"
-         sodipodi:r2="3.9502442"
-         sodipodi:arg1="0.52359878"
-         sodipodi:arg2="1.5707963"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 111.22418,73.630161 -13.684047,0 6.842027,-11.850733 z"
-         inkscape:transform-center-x="1.3150508e-06"
-         inkscape:transform-center-y="1.9751184"
-         transform="matrix(1,0,0,-1,9.5851062,140.29764)" />
-    </g>
-    <g
-       id="g1926"
-       transform="translate(123.59479,-3.3714128)">
-      <rect
-         style="fill:#999999;stroke-width:0.529167"
-         id="rect1922"
-         width="7.1562505"
-         height="12.937774"
-         x="110.38914"
-         y="56.774036"
-         rx="2.7292514"
-         ry="2.7292514" />
-      <path
-         sodipodi:type="star"
-         style="fill:#999999;stroke-width:0.529167"
-         id="path1924"
-         inkscape:flatsided="true"
-         sodipodi:sides="3"
-         sodipodi:cx="104.38216"
-         sodipodi:cy="69.679916"
-         sodipodi:r1="7.9004884"
-         sodipodi:r2="3.9502442"
-         sodipodi:arg1="0.52359878"
-         sodipodi:arg2="1.5707963"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 111.22418,73.630161 -13.684047,0 6.842027,-11.850733 z"
-         inkscape:transform-center-x="1.3150508e-06"
-         inkscape:transform-center-y="1.9751184"
-         transform="matrix(1,0,0,-1,9.5851062,140.29764)" />
-    </g>
-    <g
-       id="g366"
-       transform="matrix(0.82932661,0,0,0.82932661,28.55844,-6.9490926)">
+       id="g2666">
       <g
-         id="g412"
-         transform="matrix(0.74345965,0,0,0.74345965,-10.010629,-2.2916005)">
-        <circle
-           style="opacity:0.6;fill:#0066ff;stroke:none;stroke-width:0.49265"
-           id="path234"
-           cx="174.72452"
-           cy="52.139736"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="174.63133"
-           y="55.423653"
-           id="text402"><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
-             x="174.63133"
-             y="55.423653"
-             id="tspan401">Creators</tspan></text>
+         id="g2648">
+        <g
+           id="g366"
+           transform="matrix(0.82932661,0,0,0.82932661,28.55844,-6.9490926)">
+          <g
+             id="g412"
+             transform="matrix(0.74345965,0,0,0.74345965,-10.010629,-2.2916005)">
+            <circle
+               style="opacity:0.6;fill:#0066ff;stroke:none;stroke-width:0.49265"
+               id="path234"
+               cx="174.72452"
+               cy="52.139736"
+               r="37.250969" />
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
+               x="174.63133"
+               y="55.423653"
+               id="text402"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+                 x="174.63133"
+                 y="55.423653"
+                 id="tspan401">Creators</tspan></text>
+          </g>
+          <g
+             id="g417"
+             transform="matrix(0.74345965,0,0,0.74345965,28.712409,-34.251843)">
+            <circle
+               style="opacity:0.6;fill:#ff00cc;stroke:none;stroke-width:0.49265"
+               id="circle346"
+               cx="198.80519"
+               cy="95.128273"
+               r="37.250969" />
+            <text
+               xml:space="preserve"
+               style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
+               x="221.65062"
+               y="98.665138"
+               id="text512"><tspan
+                 sodipodi:role="line"
+                 style="fill:#ffffff;stroke-width:1.10944"
+                 x="221.65062"
+                 y="98.665138"
+                 id="tspan398">Publishers</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g905"
+           transform="translate(-3.3510844)">
+          <rect
+             style="fill:#87de87;stroke-width:0.529167"
+             id="rect420"
+             width="9.6997614"
+             height="9.6997614"
+             x="214.13248"
+             y="22.19257"
+             rx="0.80113041"
+             ry="0.79977959" />
+          <rect
+             style="fill:#d40000;stroke-width:0.529167"
+             id="rect422"
+             width="9.6997614"
+             height="9.6997614"
+             x="225.05443"
+             y="22.19257"
+             rx="0.80113041"
+             ry="0.79977959" />
+          <rect
+             style="fill:#d4aa00;stroke-width:0.529167"
+             id="rect424"
+             width="9.6997614"
+             height="9.6997614"
+             x="236.0211"
+             y="22.19257"
+             rx="4.8498807"
+             ry="4.8498807" />
+          <path
+             sodipodi:type="star"
+             style="fill:#338000;stroke-width:0.529167"
+             id="path634"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="70.746681"
+             sodipodi:cy="49.32048"
+             sodipodi:r1="5.6019239"
+             sodipodi:r2="2.8009622"
+             sodipodi:arg1="0.78539816"
+             sodipodi:arg2="1.8325957"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 74.70784,53.281639 -9.372202,-2.511274 6.860928,-6.860928 z"
+             inkscape:transform-center-x="-0.030628674"
+             inkscape:transform-center-y="-1.4835249"
+             transform="matrix(-0.26850568,1.0443273,-1.0443273,-0.26850568,321.72033,-32.353975)" />
+          <rect
+             style="fill:#217867;stroke-width:0.529167"
+             id="rect688"
+             width="9.6997614"
+             height="9.6997614"
+             x="257.60556"
+             y="22.19257"
+             rx="2.7292514"
+             ry="2.7292514" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2696"
+       class="fragment">
+      <g
+         id="g1926"
+         transform="translate(123.59479,-1.254746)">
+        <rect
+           style="fill:#999999;stroke-width:0.529167"
+           id="rect1922"
+           width="7.1562505"
+           height="12.937774"
+           x="110.38914"
+           y="56.774036"
+           rx="2.7292514"
+           ry="2.7292514" />
+        <path
+           sodipodi:type="star"
+           style="fill:#999999;stroke-width:0.529167"
+           id="path1924"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="104.38216"
+           sodipodi:cy="69.679916"
+           sodipodi:r1="7.9004884"
+           sodipodi:r2="3.9502442"
+           sodipodi:arg1="0.52359878"
+           sodipodi:arg2="1.5707963"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 111.22418,73.630161 -13.684047,0 6.842027,-11.850733 z"
+           inkscape:transform-center-x="1.3150508e-06"
+           inkscape:transform-center-y="1.9751184"
+           transform="matrix(1,0,0,-1,9.5851062,140.29764)" />
       </g>
       <g
-         id="g417"
-         transform="matrix(0.74345965,0,0,0.74345965,28.712409,-34.251843)">
-        <circle
-           style="opacity:0.6;fill:#ff00cc;stroke:none;stroke-width:0.49265"
-           id="circle346"
-           cx="198.80519"
-           cy="95.128273"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="221.65062"
-           y="98.665138"
-           id="text512"><tspan
-             sodipodi:role="line"
-             style="fill:#ffffff;stroke-width:1.10944"
-             x="221.65062"
-             y="98.665138"
-             id="tspan398">Publishers</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g356"
-       transform="matrix(0.82932661,0,0,0.82932661,-26.395016,23.954201)">
-      <g
-         id="g407"
-         transform="matrix(0.74345965,0,0,0.74345965,100.82448,49.160631)">
-        <circle
-           style="opacity:0.6;fill:#008033;stroke:none;stroke-width:0.49265"
-           id="circle290"
-           cx="115.05682"
-           cy="66.824516"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="140.90659"
-           y="70.361382"
-           id="text406"><tspan
-             sodipodi:role="line"
-             id="tspan404"
-             style="fill:#ffffff;stroke-width:1.10944"
+         id="g356"
+         transform="matrix(0.82932661,0,0,0.82932661,-26.395016,23.954201)">
+        <g
+           id="g407"
+           transform="matrix(0.74345965,0,0,0.74345965,100.82448,49.160631)">
+          <circle
+             style="opacity:0.6;fill:#008033;stroke:none;stroke-width:0.49265"
+             id="circle290"
+             cx="115.05682"
+             cy="66.824516"
+             r="37.250969" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
              x="140.90659"
-             y="70.361382">Distributors</tspan></text>
-      </g>
-      <g
-         id="g425"
-         transform="matrix(0.74345965,0,0,0.74345965,-74.267452,28.11793)">
-        <circle
-           style="opacity:0.6;fill:#aa0000;stroke:none;stroke-width:0.49265"
-           id="circle419"
-           cx="198.80519"
-           cy="95.128273"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="198.54781"
-           y="98.665138"
-           id="text423"><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+             y="70.361382"
+             id="text406"><tspan
+               sodipodi:role="line"
+               id="tspan404"
+               style="fill:#ffffff;stroke-width:1.10944"
+               x="140.90659"
+               y="70.361382">Distributors</tspan></text>
+        </g>
+        <g
+           id="g425"
+           transform="matrix(0.74345965,0,0,0.74345965,-74.267452,28.11793)">
+          <circle
+             style="opacity:0.6;fill:#aa0000;stroke:none;stroke-width:0.49265"
+             id="circle419"
+             cx="198.80519"
+             cy="95.128273"
+             r="37.250969" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
              x="198.54781"
              y="98.665138"
-             id="tspan421">Ministries</tspan></text>
-      </g>
-      <g
-         id="g433"
-         transform="matrix(0.74345965,0,0,0.74345965,94.975152,28.11793)">
-        <circle
-           style="opacity:0.6;fill:#d4aa00;stroke:none;stroke-width:0.49265"
-           id="circle427"
-           cx="198.80519"
-           cy="95.128273"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="198.83626"
-           y="91.946426"
-           id="text431"><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+             id="text423"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+               x="198.54781"
+               y="98.665138"
+               id="tspan421">Ministries</tspan></text>
+        </g>
+        <g
+           id="g433"
+           transform="matrix(0.74345965,0,0,0.74345965,94.975152,28.11793)">
+          <circle
+             style="opacity:0.6;fill:#d4aa00;stroke:none;stroke-width:0.49265"
+             id="circle427"
+             cx="198.80519"
+             cy="95.128273"
+             r="37.250969" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
              x="198.83626"
              y="91.946426"
-             id="tspan429">Book</tspan><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
-             x="198.83626"
-             y="103.48451"
-             id="tspan461">shops</tspan></text>
-      </g>
-      <g
-         id="g441"
-         transform="matrix(0.74345965,0,0,0.74345965,-17.853251,28.11793)">
-        <circle
-           style="opacity:0.6;fill:#abc837;stroke:none;stroke-width:0.49265"
-           id="circle435"
-           cx="198.80519"
-           cy="95.128273"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="198.54781"
-           y="98.665138"
-           id="text439"><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+             id="text431"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+               x="198.83626"
+               y="91.946426"
+               id="tspan429">Book</tspan><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+               x="198.83626"
+               y="103.48451"
+               id="tspan461">shops</tspan></text>
+        </g>
+        <g
+           id="g441"
+           transform="matrix(0.74345965,0,0,0.74345965,-17.853251,28.11793)">
+          <circle
+             style="opacity:0.6;fill:#abc837;stroke:none;stroke-width:0.49265"
+             id="circle435"
+             cx="198.80519"
+             cy="95.128273"
+             r="37.250969" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
              x="198.54781"
              y="98.665138"
-             id="tspan437">Churches</tspan></text>
+             id="text439"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+               x="198.54781"
+               y="98.665138"
+               id="tspan437">Churches</tspan></text>
+        </g>
       </g>
+      <g
+         id="g910"
+         transform="translate(-34.703135)">
+        <rect
+           style="fill:#d4aa00;stroke-width:0.529167"
+           id="rect742"
+           width="9.6997614"
+           height="9.6997614"
+           x="256.42883"
+           y="101.84184"
+           rx="4.8498807"
+           ry="4.8498807" />
+        <path
+           sodipodi:type="star"
+           style="fill:#338000;stroke-width:0.529167"
+           id="path744"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="70.746681"
+           sodipodi:cy="49.32048"
+           sodipodi:r1="5.6019239"
+           sodipodi:r2="2.8009622"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.8325957"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 74.70784,53.281639 -9.372202,-2.511274 6.860928,-6.860928 z"
+           inkscape:transform-center-x="-0.030628674"
+           inkscape:transform-center-y="-1.4835249"
+           transform="matrix(-0.26850568,1.0443273,-1.0443273,-0.26850568,342.12807,47.295293)" />
+        <rect
+           style="fill:#217867;stroke-width:0.529167"
+           id="rect746"
+           width="9.6997614"
+           height="9.6997614"
+           x="278.01331"
+           y="101.84184"
+           rx="2.7292514"
+           ry="2.7292514" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.47234px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.684048"
+         x="254.60263"
+         y="63.197403"
+         id="text2160"><tspan
+           sodipodi:role="line"
+           id="tspan2156"
+           style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
+           x="254.60263"
+           y="63.197403">Filter to </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
+           x="254.60263"
+           y="70.311447"
+           id="tspan2158">the context</tspan></text>
     </g>
     <g
-       id="g337"
-       transform="matrix(0.82932661,0,0,0.82932661,24.758824,42.603747)">
+       id="g2716"
+       class="fragment">
       <g
-         id="g449"
-         transform="matrix(0.74345965,0,0,0.74345965,33.293976,98.528265)">
-        <circle
-           style="opacity:0.6;fill:#37abc8;stroke:none;stroke-width:0.49265"
-           id="circle443"
-           cx="198.80519"
-           cy="95.128273"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="198.82738"
-           y="92.585457"
-           id="text447"><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+         id="g1860"
+         transform="translate(123.59479,79.912181)">
+        <rect
+           style="fill:#999999;stroke-width:0.529167"
+           id="rect1802"
+           width="7.1562505"
+           height="12.937774"
+           x="110.38914"
+           y="56.774036"
+           rx="2.7292514"
+           ry="2.7292514" />
+        <path
+           sodipodi:type="star"
+           style="fill:#999999;stroke-width:0.529167"
+           id="path1856"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="104.38216"
+           sodipodi:cy="69.679916"
+           sodipodi:r1="7.9004884"
+           sodipodi:r2="3.9502442"
+           sodipodi:arg1="0.52359878"
+           sodipodi:arg2="1.5707963"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 111.22418,73.630161 -13.684047,0 6.842027,-11.850733 z"
+           inkscape:transform-center-x="1.3150508e-06"
+           inkscape:transform-center-y="1.9751184"
+           transform="matrix(1,0,0,-1,9.5851062,140.29764)" />
+      </g>
+      <g
+         id="g337"
+         transform="matrix(0.82932661,0,0,0.82932661,24.758824,42.603747)">
+        <g
+           id="g449"
+           transform="matrix(0.74345965,0,0,0.74345965,33.293976,98.528265)">
+          <circle
+             style="opacity:0.6;fill:#37abc8;stroke:none;stroke-width:0.49265"
+             id="circle443"
+             cx="198.80519"
+             cy="95.128273"
+             r="37.250969" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
              x="198.82738"
              y="92.585457"
-             id="tspan445">Jesus</tspan><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
-             x="198.82738"
-             y="104.12354"
-             id="tspan451">followers</tspan></text>
-      </g>
-      <g
-         id="g459"
-         transform="matrix(0.74345965,0,0,0.74345965,-23.673271,98.528265)">
-        <circle
-           style="opacity:0.6;fill:#ff6600;stroke:none;stroke-width:0.49265"
-           id="circle453"
-           cx="198.80519"
-           cy="95.128273"
-           r="37.250969" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
-           x="198.54781"
-           y="98.665138"
-           id="text457"><tspan
-             sodipodi:role="line"
-             style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+             id="text447"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+               x="198.82738"
+               y="92.585457"
+               id="tspan445">Jesus</tspan><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+               x="198.82738"
+               y="104.12354"
+               id="tspan451">followers</tspan></text>
+        </g>
+        <g
+           id="g459"
+           transform="matrix(0.74345965,0,0,0.74345965,-23.673271,98.528265)">
+          <circle
+             style="opacity:0.6;fill:#ff6600;stroke:none;stroke-width:0.49265"
+             id="circle453"
+             cx="198.80519"
+             cy="95.128273"
+             r="37.250969" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:8.87545px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;opacity:1;fill:#ffffff;stroke:none;stroke-width:1.10944"
              x="198.54781"
              y="98.665138"
-             id="tspan455">Individual</tspan></text>
+             id="text457"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.10944"
+               x="198.54781"
+               y="98.665138"
+               id="tspan455">Individual</tspan></text>
+        </g>
       </g>
-    </g>
-    <g
-       id="g905"
-       transform="translate(-3.3510844)">
-      <rect
-         style="fill:#87de87;stroke-width:0.529167"
-         id="rect420"
-         width="9.6997614"
-         height="9.6997614"
-         x="214.13248"
-         y="22.19257"
-         rx="0.80113041"
-         ry="0.79977959" />
-      <rect
-         style="fill:#d40000;stroke-width:0.529167"
-         id="rect422"
-         width="9.6997614"
-         height="9.6997614"
-         x="225.05443"
-         y="22.19257"
-         rx="0.80113041"
-         ry="0.79977959" />
-      <rect
-         style="fill:#d4aa00;stroke-width:0.529167"
-         id="rect424"
-         width="9.6997614"
-         height="9.6997614"
-         x="236.0211"
-         y="22.19257"
-         rx="4.8498807"
-         ry="4.8498807" />
-      <path
-         sodipodi:type="star"
-         style="fill:#338000;stroke-width:0.529167"
-         id="path634"
-         inkscape:flatsided="true"
-         sodipodi:sides="3"
-         sodipodi:cx="70.746681"
-         sodipodi:cy="49.32048"
-         sodipodi:r1="5.6019239"
-         sodipodi:r2="2.8009622"
-         sodipodi:arg1="0.78539816"
-         sodipodi:arg2="1.8325957"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 74.70784,53.281639 -9.372202,-2.511274 6.860928,-6.860928 z"
-         inkscape:transform-center-x="-0.030628674"
-         inkscape:transform-center-y="-1.4835249"
-         transform="matrix(-0.26850568,1.0443273,-1.0443273,-0.26850568,321.72033,-32.353975)" />
-      <rect
-         style="fill:#217867;stroke-width:0.529167"
-         id="rect688"
-         width="9.6997614"
-         height="9.6997614"
-         x="257.60556"
-         y="22.19257"
-         rx="2.7292514"
-         ry="2.7292514" />
-    </g>
-    <g
-       id="g910"
-       transform="translate(-34.703135)">
-      <rect
-         style="fill:#d4aa00;stroke-width:0.529167"
-         id="rect742"
-         width="9.6997614"
-         height="9.6997614"
-         x="256.42883"
-         y="101.84184"
-         rx="4.8498807"
-         ry="4.8498807" />
-      <path
-         sodipodi:type="star"
-         style="fill:#338000;stroke-width:0.529167"
-         id="path744"
-         inkscape:flatsided="true"
-         sodipodi:sides="3"
-         sodipodi:cx="70.746681"
-         sodipodi:cy="49.32048"
-         sodipodi:r1="5.6019239"
-         sodipodi:r2="2.8009622"
-         sodipodi:arg1="0.78539816"
-         sodipodi:arg2="1.8325957"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 74.70784,53.281639 -9.372202,-2.511274 6.860928,-6.860928 z"
-         inkscape:transform-center-x="-0.030628674"
-         inkscape:transform-center-y="-1.4835249"
-         transform="matrix(-0.26850568,1.0443273,-1.0443273,-0.26850568,342.12807,47.295293)" />
-      <rect
-         style="fill:#217867;stroke-width:0.529167"
-         id="rect746"
-         width="9.6997614"
-         height="9.6997614"
-         x="278.01331"
-         y="101.84184"
-         rx="2.7292514"
-         ry="2.7292514" />
-    </g>
-    <g
-       id="g913"
-       transform="translate(23.983021)">
-      <rect
-         style="fill:#217867;stroke-width:0.529167"
-         id="rect748"
-         width="9.6997614"
-         height="9.6997614"
-         x="208.53491"
-         y="177.55339"
-         rx="2.7292514"
-         ry="2.7292514" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:5.47234px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.684048"
-       x="254.60263"
-       y="145.77315"
-       id="text1573"><tspan
-         sodipodi:role="line"
-         id="tspan1571"
-         style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
+      <g
+         id="g913"
+         transform="translate(23.983021)">
+        <rect
+           style="fill:#217867;stroke-width:0.529167"
+           id="rect748"
+           width="9.6997614"
+           height="9.6997614"
+           x="208.53491"
+           y="177.55339"
+           rx="2.7292514"
+           ry="2.7292514" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.47234px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.684048"
          x="254.60263"
-         y="145.77315">Filter to </tspan><tspan
-         sodipodi:role="line"
-         style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
-         x="254.60263"
-         y="152.88719"
-         id="tspan2154">the context</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:5.47234px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.684048"
-       x="254.60263"
-       y="61.080734"
-       id="text2160"><tspan
-         sodipodi:role="line"
-         id="tspan2156"
-         style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
-         x="254.60263"
-         y="61.080734">Filter to </tspan><tspan
-         sodipodi:role="line"
-         style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
-         x="254.60263"
-         y="68.194778"
-         id="tspan2158">the context</tspan></text>
+         y="145.77315"
+         id="text1573"><tspan
+           sodipodi:role="line"
+           id="tspan1571"
+           style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
+           x="254.60263"
+           y="145.77315">Filter to </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.684048"
+           x="254.60263"
+           y="152.88719"
+           id="tspan2154">the context</tspan></text>
+    </g>
   </g>
 </svg>

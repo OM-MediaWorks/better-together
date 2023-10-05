@@ -17,14 +17,20 @@ svg text {
     font-family: Montserrat !important;
 }
 
-.slide-background-content {
-    opacity: .5;
-}
-
 .chapters {
     text-shadow: 0 0 10px rgba(black, .7) !important;
 }
 
 .talk-title * {
     line-height: 1.8 !important;
+}
+
+.reveal {
+    table {
+        border-collapse: separate;
+    }
+}
+
+.opacity .slide-background-content {
+    opacity: .5;
 }

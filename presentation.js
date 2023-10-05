@@ -15,3 +15,17 @@ deck.initialize({
    controlsTutorial: false,
    controls: false
 })
+
+
+const opacityItems = [...document.querySelectorAll('[data-opacity')]
+
+setTimeout(() => {
+   for (const opacityItem of opacityItems) {
+      const hash = opacityItem.getAttribute('data-background')
+      const backgroundElements = document.querySelectorAll(`[data-background-hash^="${hash}"]`)
+      for (const backgroundElement of backgroundElements) {
+         backgroundElement.classList.add('opacity')
+      }
+   }   
+}, 300)
+
