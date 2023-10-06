@@ -21,14 +21,26 @@ svg text {
     text-shadow: 0 0 10px rgba(black, .7) !important;
 }
 
-.talk-title * {
-    line-height: 1.8 !important;
-}
-
 .reveal table {
     border-collapse: separate;
 }
 
 .opacity .slide-background-content {
     opacity: .25;
+}
+
+hr {
+    margin-block: 10px;
+}
+
+.departments {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.departments img {
+    flex: 0 0 100px;
+    max-width: 140px;
+    display: block;
 }

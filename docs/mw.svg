@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 360 360"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="mw.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.7833333"
+     inkscape:cx="88.742515"
+     inkscape:cy="223.29341"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36" />
+  <defs
+     id="defs7">
+    <style
+       id="style2">
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #1d1d1b;
+        mix-blend-mode: multiply;
+        opacity: .15;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath
+       id="clippath">
+      <rect
+         class="cls-3"
+         y="-379.18"
+         width="360"
+         height="360"
+         id="rect4" />
+    </clipPath>
+  </defs>
+  <g
+     id="g31"
+     style="isolation:isolate;fill:#ffffff"
+     transform="matrix(1.6115703,0,0,1.6115703,-110.08546,-110.08122)">
+    <polygon
+       class="cls-4"
+       points="159.7,122.48 136.03,155.05 152.31,177.45 187.1,129.56 "
+       id="polygon17"
+       style="fill:#ffffff" />
+    <polygon
+       class="cls-4"
+       points="256.29,194.83 278.99,226.07 291.66,122.88 264.25,129.97 "
+       id="polygon19"
+       style="fill:#ffffff" />
+    <polygon
+       class="cls-4"
+       points="198.18,195.24 202.89,233.56 241.81,180 209.25,180 "
+       id="polygon21"
+       style="fill:#ffffff" />
+    <polygon
+       class="cls-4"
+       points="95.75,230.44 108.95,122.88 81.55,129.97 68.34,237.52 "
+       id="polygon23"
+       style="fill:#ffffff" />
+    <polygon
+       class="cls-4"
+       points="278.45,230.44 243.66,182.55 227.38,204.95 251.05,237.52 "
+       id="polygon25"
+       style="fill:#ffffff" />
+    <polygon
+       class="cls-4"
+       points="150.45,180 111.54,126.44 106.83,164.76 117.9,180 "
+       id="polygon27"
+       style="fill:#ffffff" />
+    <polygon
+       class="cls-4"
+       points="200.3,237.12 187.63,133.93 164.94,165.17 172.9,230.03 "
+       id="polygon29"
+       style="fill:#ffffff" />
+  </g>
+</svg>
