@@ -7,10 +7,10 @@
     --r-background-color: rgb(7, 7, 7);
 }
 
-section[data-unsplash] {
-    h2, h3, h4 {
-        text-shadow: 0 0 20px rgba(black, .7);
-    }
+section[data-unsplash] h2, 
+section[data-unsplash] h3, 
+section[data-unsplash] h4 {
+    text-shadow: 0 0 20px rgba(black, .7);
 }
 
 svg text {
@@ -25,10 +25,8 @@ svg text {
     line-height: 1.8 !important;
 }
 
-.reveal {
-    table {
-        border-collapse: separate;
-    }
+.reveal table {
+    border-collapse: separate;
 }
 
 .opacity .slide-background-content {
