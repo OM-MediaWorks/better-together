@@ -1,6 +1,6 @@
-import Reveal from 'reveal.js';
-import HighLight from 'reveal.js/plugin/highlight/highlight.esm'
-import revealSvgFragment from './reveal-svg-fragment';
+import Reveal from 'https://esm.sh/reveal.js';
+import HighLight from 'https://esm.sh/reveal.js/plugin/highlight/highlight.esm'
+import revealSvgFragment from './reveal-svg-fragment.js';
 
 const unsplashItems = [...document.querySelectorAll('[data-unsplash')]
 for (const unsplashItem of unsplashItems) {
