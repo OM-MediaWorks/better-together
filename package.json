@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "postinstall": "sass-migrator division node_modules/reveal.js/**/*.scss"
+    "dev": "vite"
   },
   "author": "",
   "license": "MIT",
