@@ -13,7 +13,7 @@ deck.initialize({
    hash: true,
    plugins: [revealSvgFragment, HighLight],
    controlsTutorial: false,
-   controls: false
+   // controls: false
 })
 
 

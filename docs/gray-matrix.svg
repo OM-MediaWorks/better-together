@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1670174"
-     inkscape:cx="422.87287"
-     inkscape:cy="397.16632"
+     inkscape:cx="624.66935"
+     inkscape:cy="398.88009"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g928" />
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2" />
   <g
@@ -645,7 +645,8 @@
     </g>
   </g>
   <g
-     id="g928" class="fragment fade-in-then-out">
+     id="g928"
+     class="fragment fade-in-then-out">
     <rect
        style="fill:#999999;stroke:#ffffff;stroke-width:0.788997;fill-opacity:1"
        id="rect468-3"
@@ -673,5 +674,77 @@
        y="154.31358"
        rx="0"
        ry="0" />
+  </g>
+  <g
+     id="g439"
+     class="fragment fade-in-then-out">
+    <rect
+       style="fill:#800000;stroke-width:0.502582"
+       id="rect370"
+       width="71.921494"
+       height="72.03434"
+       x="70.77977"
+       y="44.47094" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2181px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.40227"
+       x="92.807632"
+       y="84.958519"
+       id="text902-3"><tspan
+         id="tspan900-6"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1.40227"
+         x="106.30301"
+         y="84.958519">Deny</tspan></text>
+    <rect
+       style="fill:#677821;stroke-width:0.502582"
+       id="rect429"
+       width="71.921494"
+       height="72.03434"
+       x="146.10158"
+       y="44.47094" />
+    <rect
+       style="fill:#554400;stroke-width:0.502582"
+       id="rect431"
+       width="71.921494"
+       height="72.03434"
+       x="70.77977"
+       y="120.27834" />
+    <rect
+       style="fill:#aa4400;stroke-width:0.502582"
+       id="rect433"
+       width="71.921494"
+       height="72.03434"
+       x="146.10158"
+       y="120.27834" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2181px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.40227"
+       x="168.42111"
+       y="84.638809"
+       id="text830"><tspan
+         id="tspan828"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1.40227"
+         x="181.91649"
+         y="84.638809">Grow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2181px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.40227"
+       x="92.807632"
+       y="161.78439"
+       id="text834"><tspan
+         id="tspan832"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1.40227"
+         x="106.30301"
+         y="161.78439">Doubt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2181px;line-height:1.3;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.40227"
+       x="168.42111"
+       y="161.46469"
+       id="text838"><tspan
+         id="tspan836"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:1.40227"
+         x="181.91649"
+         y="161.46469">Search</tspan></text>
   </g>
 </svg>

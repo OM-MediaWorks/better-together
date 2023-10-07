@@ -26,7 +26,7 @@ svg text {
 }
 
 .opacity .slide-background-content {
-    opacity: .25;
+    opacity: .3;
 }
 
 hr {
@@ -43,4 +43,9 @@ hr {
     flex: 0 0 100px;
     max-width: 140px;
     display: block;
+    margin-bottom: 0;
+}
+
+.department span {
+    font-size: 1.4rem;
 }
