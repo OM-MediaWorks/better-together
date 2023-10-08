@@ -40,12 +40,12 @@ hr {
 }
 
 .departments img {
-    flex: 0 0 100px;
-    max-width: 140px;
+    flex: 0 0 160px;
+    max-width: 160px;
     display: block;
     margin-bottom: 0;
 }
 
 .department span {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
 }
