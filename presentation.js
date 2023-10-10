@@ -8,13 +8,6 @@ for (const unsplashItem of unsplashItems) {
    unsplashItem.setAttribute('data-background', `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=2200&q=80`)
 }
 
-if (localStorage.minute) {
-   const sections = [...document.querySelectorAll('section')]
-   for (const section of sections) {
-      if (!section.classList.contains('minute-at-the-mic')) section.remove()
-   }
-}
-
 const deck = new Reveal()
 deck.initialize({
    hash: true,
