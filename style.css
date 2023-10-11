@@ -5,13 +5,14 @@
 :root {
     --r-heading-line-height: 1.5;
     --r-background-color: rgb(7, 7, 7);
+    --r-heading-text-shadow: 0 0 20px rgba(0, 0, 0, .7);
 }
 
-section[data-unsplash] h2, 
-section[data-unsplash] h3, 
-section[data-unsplash] h4 {
-    text-shadow: 0 0 20px rgba(black, .7);
-}
+/* .reveal h2, 
+.reveal h3, 
+.reveal h4 {
+    --r-heading-text-shadow: 0 0 20px rgba(black, .7);
+} */
 
 svg text {
     font-family: Montserrat !important;
